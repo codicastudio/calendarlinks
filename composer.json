@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/calendarlinks",
+    "name": "codica-studio/calendarlinks",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/calendarlinks",
+    "homepage": "https://github.com/codica-studio/calendarlinks",
     "license": "MIT",
     "authors": [
         {
