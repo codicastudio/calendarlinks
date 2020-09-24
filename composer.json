@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/calendarlinks",
+    "name": "codicastudio/calendar-links",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/calendarlinks",
+    "homepage": "https://github.com/codicastudio/calendar-links",
     "license": "MIT",
     "authors": [
         {
@@ -37,5 +37,7 @@
     },
     "config": {
         "sort-packages": true
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
